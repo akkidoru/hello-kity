@@ -1,1 +1,5 @@
-# hello-kity
+# include<stdio.h>
+void main()
+{
+printf("hello kity");
+}
